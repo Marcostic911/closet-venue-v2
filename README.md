@@ -1,8 +1,15 @@
 # Closet Venue V2
 
-Proyecto desarrollado como parte de mi formación en Desarrollo Web.
+Aplicación web desarrollada como proyecto principal de mi proceso de formación en desarrollo Full Stack.
 
-## Tecnologías
+## Objetivos
+
+- Aprender desarrollo web moderno.
+- Aplicar buenas prácticas de programación.
+- Construir una aplicación real para Closet Venue.
+- Crear un portfolio profesional.
+
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
