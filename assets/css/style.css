@@ -1,0 +1,7 @@
+article {
+  display: inline-block;
+  width: 250px;
+}
+article img {
+  width: 100%;
+}
